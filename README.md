@@ -10,4 +10,4 @@ Standard Floyd's triangle:
 `
 
 Isoceles Floyd's triangle (produced by this program):
-![sample](sample.png)
+![sample](sample_img.png)
